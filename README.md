@@ -6,7 +6,7 @@ In my beginnings in GitHub I am following the instructions that they give me to 
 
 | Red | Link |
 | ------ | ------ |
-| Mail📮 | jonathan.el.dev@gmail.com |
+| Mail📮 | jonathan.cardozo.dev@gmail.com |
 | Twitter | [plugins/googledrive/README.md][PlGd] |
 | Instangram | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
