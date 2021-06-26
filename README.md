@@ -9,5 +9,6 @@ In my beginnings in GitHub I am following the instructions that they give me to 
 | Mail📮     | jonathan.cardozo.dev@gmail.com               |
 | Twitter    | https://twitter.com/JothanDev                |
 | Instangram | https://www.instagram.com/jonathan.cardozoo/ |
+| Facebook   | https://www.facebook.com/jonathan.cardozo.dev/ |
 | Medium     | https://medium.com/@jonathan.cardozo.dev     |
 | DEV        | https://dev.to/jothandev                     |
